@@ -1,0 +1,5 @@
+symbol,name,bucket,close,breakout_level,base_months,base_start,vol_x_10wk,weekly_close_pos,ext_vs_10m_ma_pct,base_drawdown_pct,off_high_pct,turnover_cr,sources,weekly_candle_final,spliced_today,s3_pass,s4_score,s3_fail
+VISAKAIND,VISAKAIND,CONFIRMED,100.0,90.64,12.0,2025-08-08,17.7,0.95,38.7,45.1,0.96,134.8,52w_high+volume_gainer,True,True,True,3,
+EMIL,EMIL,CONFIRMED,165.83,157.9,10.5,2025-09-22,11.9,0.85,42.8,49.6,1.51,851.6,52w_high,True,False,True,3,
+TRAVELFOOD,TRAVELFOOD,CONFIRMED,1429.0,1388.8,8.3,2025-11-27,5.4,0.76,13.2,28.4,2.85,184.3,52w_high+volume_gainer,True,True,True,4,
+FIEMIND,FIEMIND,CONFIRMED,2580.3,2408.6,5.8,2026-02-11,3.3,0.92,15.3,26.8,2.03,50.5,52w_high,True,False,True,4,

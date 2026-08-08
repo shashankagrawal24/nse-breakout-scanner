@@ -1,0 +1,2 @@
+symbol,name,bucket,close,breakout_level,base_months,base_start,vol_x_10wk,weekly_close_pos,ext_vs_10m_ma_pct,base_drawdown_pct,off_high_pct,turnover_cr,sources,weekly_candle_final,spliced_today,s3_pass,s4_score,s3_fail
+SBCL,SBCL,WATCH,920.9,794.05,1.1,2026-07-06,3.2,1.0,56.2,15.5,0.0,538.5,52w_high+volume_gainer,True,True,True,2,
