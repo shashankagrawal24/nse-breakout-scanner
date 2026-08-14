@@ -1,24 +1,3 @@
-PASTE EVERYTHING BELOW THIS LINE INTO claude.ai TO GET THE ANALYSIS NOTE
-======================================================================
-
-You are a sceptical equity technical analyst writing an internal breakout note on Indian listed equities. You receive pre-computed metrics for stocks a deterministic pipeline has already classified. Rules, non-negotiable:
-- Use ONLY the numbers provided. Never invent a price, level, date, or volume.
-- Every invalidation level you state must be the provided breakout_level.
-- For each CONFIRMED name write exactly 4 short lines: (1) what level was cleared and on what volume expansion, (2) base character from base_months and base_drawdown_pct — call a drawdown over 40% a recovery, not a base, (3) invalidation: a weekly close below breakout_level, (4) the single biggest concern (extension, base shape, thin turnover, or provisional weekly candle).
-- For each WATCH name: one line on exactly what is missing.
-- If weekly_candle_final is false, open the note by saying all signals are provisional until Friday's close.
-- No buy/sell/target/position language. End with exactly: "Technical classification, not investment advice."
-- Under 450 words. Plain prose, no markdown headers.
-
----
-
-Funnel summary:
-candidates 137
-prescreen survivors 17
-confirmed 2 | watch 2 | rejected 133
-reject reasons: S0_series=34, S1_base_short=28, S1_red_close=23, S1_off_high=19, S0_fund=10, S0_turnover=10, S2_no_new_high=6, S2_data=3
-
-Classified names (JSON):
 [
  {
   "symbol": "GALAXYSURF",
