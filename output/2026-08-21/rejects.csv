@@ -1,102 +1,157 @@
 symbol,stage,detail
 ACCENTMIC,S0_series,SM
+ACMESOLAR,S1_base_short,base 1d — rolling high
 ADDIND,S0_turnover,Rs 0.0 cr
+AHIMSA,S0_series,ST
+AKIKO,S0_series,SM
+ALUFLUOR,S1_base_short,base 2d — rolling high
 AMANTA,S0_series,BE
 ANAWIL,S0_series,ST
-APOLLOPIPE,S1_base_short,base 1d — rolling high
+APOLLOPIPE,S1_red_close,-0.30% on the day
 ARHAM,S0_series,SM
 ARTEMISMED,S1_base_short,base 1d — rolling high
 ARYAMAN,S1_base_short,base 3d — rolling high
+ASIANENE,S1_red_close,-2.76% on the day
 AVADHSUGAR,S1_base_short,base 1d — rolling high
+AVATAR,S0_series,ST
 BAHETI,S0_series,SM
 BOSS,S0_series,SM
-CGVAK,S1_red_close,-5.35% on the day
+BRIGHTBR,S1_red_close,-1.29% on the day
+CGVAK,S1_red_close,-0.46% on the day
 CHEMBONDCH,S0_series,BE
+COMPEAU,S1_red_close,-2.15% on the day
+CRAVATEX,S1_off_high,closed 3.6% off day high
 CREDENT,S0_series,ST
-CRSL,S0_turnover,Rs 1.1 cr
-DHOOTTRANS,S1_base_short,base 1d — rolling high
+CRSL,S1_base_short,base 1d — rolling high
+DATAPATTNS,S1_off_high,closed 4.0% off day high
+DECNGOLD,S1_base_short,base 3d — rolling high
+DHOOTTRANS,S1_red_close,-0.93% on the day
+DSKULKARNI,S0_series,BE
 EBIX,S1_base_short,base 1d — rolling high
 ELIQUID,S0_fund,ETF/index fund
+EPL,S1_red_close,-2.30% on the day
 FRESHARA,S0_series,ST
-GAEL,S1_base_short,base 1d — rolling high
+GAEL,S1_red_close,-3.58% on the day
 GULFPETRO,S0_series,BE
+HAMPTON,S1_off_high,closed 4.9% off day high
 HAPPY,S0_series,SM
 HBPOR,S1_base_short,base 4d — rolling high
 HPTL,S0_series,SM
 IMPEXFERRO,S0_series,BZ
-IRISDOREME,S1_base_short,base 2d — rolling high
-JNPR,S1_base_short,base 1d — rolling high
-KANCOTEA,S0_turnover,Rs 0.0 cr
-KANPRPLA,S1_base_short,base 4d — rolling high
+INDOBORAX,S1_off_high,closed 3.2% off day high
+IRISDOREME,S1_red_close,-3.49% on the day
+JAYSREETEA,S1_off_high,closed 5.9% off day high
+JINDALSAW,S1_base_short,base 10d — rolling high
+JNPR,S1_red_close,-2.85% on the day
+JSFB,S1_off_high,closed 4.2% off day high
+KABRAEXTRU,S1_base_short,base 1d — rolling high
+KANCOTEA,S1_off_high,closed 5.1% off day high
+KANPRPLA,S1_red_close,-1.85% on the day
+KENNAMET,S1_off_high,closed 3.0% off day high
 KJMCFIN,S0_turnover,Rs 0.0 cr
-KOHINOOR,S0_turnover,Rs 2.0 cr
-KRONOX,S1_off_high,closed 6.0% off day high
+KOHINOOR,S1_off_high,closed 4.0% off day high
+KRISHANA,S1_base_short,base 2d — rolling high
+KRONOX,S1_off_high,closed 4.9% off day high
+KTKBANK,S1_red_close,-2.25% on the day
+KWIL,S1_base_short,base 1d — rolling high
+LCL,S1_base_short,base 2d — rolling high
+LEENEE,S1_off_high,closed 3.8% off day high
+LENSKART,S1_base_short,base 1d — rolling high
 LIQUIDCASE,S0_fund,ETF/index fund
 LIQUIDSHRI,S0_fund,ETF/index fund
 MAGSON,S0_series,SM
 MAHASTEEL,S0_series,BE
+MAKERSL,S1_base_short,base 1d — rolling high
 MANBRO,S1_base_short,base 1d — rolling high
-MANGLMCEM,S1_off_high,closed 3.7% off day high
 MANINDS,S1_base_short,base 1d — rolling high
+MARC,S0_series,SM
+MAWANASUG,S1_off_high,closed 3.1% off day high
 MENONBE,S0_series,BE
-MERCURYEV,S1_base_short,base 1d — rolling high
+MERCURYEV,S1_off_high,closed 4.4% off day high
 METALIC,S0_series,SM
 MID150BEES,S0_fund,ETF/index fund
 MINALIND,S0_turnover,Rs 0.0 cr
-MMP,S1_base_short,base 1d — rolling high
-MPDL,S0_turnover,Rs 0.0 cr
-MUFIN,S1_base_short,base 1d — rolling high
-MYSORPETRO,S0_turnover,Rs 2.5 cr
+MLKFOOD,S1_off_high,closed 4.5% off day high
+MMP,S1_red_close,-1.10% on the day
+MON50EQUAL,S0_fund,ETF/index fund
+MPDL,S0_turnover,Rs 0.1 cr
+MUFIN,S1_red_close,-0.37% on the day
+MYSORPETRO,S1_red_close,-2.59% on the day
 NETWEB,S1_base_short,base 1d — rolling high
-PACIFICI,S1_red_close,-7.27% on the day
+NEXT30ADD,S0_fund,ETF/index fund
+ONEGLOBAL,S1_red_close,-1.41% on the day
+ORIRAIL,S1_off_high,closed 6.2% off day high
+PACIFICI,S1_red_close,-2.57% on the day
+PARAS,S1_red_close,-1.00% on the day
+PCCL,S0_series,SM
 POEL,S1_base_short,base 3d — rolling high
+PPLPHARMA,S1_red_close,-1.55% on the day
 PRIZOR,S0_series,ST
+PROPSHOP,S0_series,SM
+PTCIL,S1_base_short,base 4d — rolling high
 PVP,S1_base_short,base 1d — rolling high
 QMSMEDI,S0_series,BE
-RATNAVEER,S1_base_short,base 1d — rolling high
+RATNAVEER,S1_red_close,-1.65% on the day
 REMUS,S0_series,SM
-RITCO,S1_base_short,base 1d — rolling high
-ROLEXRINGS,S1_base_short,base 1d — rolling high
-SAILIFE,S1_red_close,-0.45% on the day
-SAMBANDAM,S0_turnover,Rs 1.1 cr
-SEDEMAC,S1_base_short,base 1d — rolling high
-STEELCAS,S1_red_close,-0.56% on the day
-STYLEBAAZA,S1_base_short,base 1d — rolling high
-SUBEXLTD,S1_base_short,base 2d — rolling high
-SUPTANERY,S0_turnover,Rs 0.3 cr
+RITCO,S1_red_close,-1.46% on the day
+ROLEXRINGS,S1_red_close,-1.52% on the day
+RPEL,S1_base_short,base 2d — rolling high
+RRKABEL,S1_base_short,base 2d — rolling high
+SAB,S1_base_short,base 1d — rolling high
+SACHEEROME,S0_series,SM
+SAILIFE,S1_red_close,-1.00% on the day
+SAMBANDAM,S0_turnover,Rs 1.2 cr
+SCPL,S1_base_short,base 1d — rolling high
+SEDEMAC,S1_red_close,-0.35% on the day
+SHRIPISTON,S1_base_short,base 3d — rolling high
+SIGIND,S1_red_close,-0.94% on the day
+SIL,S1_off_high,closed 6.5% off day high
+SKYTECH,S0_series,ST
+SMVD,S0_series,SM
+STEELCAS,S1_red_close,-1.03% on the day
+STYLEBAAZA,S1_red_close,-4.99% on the day
+SUBEXLTD,S1_off_high,closed 4.5% off day high
+SUPTANERY,S0_turnover,Rs 1.8 cr
+SUVEN,S1_red_close,-0.46% on the day
 SWISSMLTRY,S1_base_short,base 1d — rolling high
 TANKUP,S0_series,ST
 TCL,S0_series,SM
 TECHNOCRAF,S1_base_short,base 1d — rolling high
 THELEELA,S1_base_short,base 1d — rolling high
-UNITDSPR,S1_red_close,-0.60% on the day
+UNITDSPR,S1_base_short,base 3d — rolling high
 UNIVASTU,S0_series,BE
+VALIANTLAB,S1_base_short,base 2d — rolling high
 VINSYS,S0_series,ST
-VIRTUALG,S0_turnover,Rs 0.1 cr
-VISHAL,S1_off_high,closed 6.5% off day high
-WATERBASE,S1_off_high,closed 4.2% off day high
+VINYAS,S0_series,SM
+VIRAT,S0_turnover,Rs 1.9 cr
+VIRTUALG,S1_off_high,closed 5.0% off day high
+VISHAL,S1_off_high,closed 6.4% off day high
+WATERBASE,S1_off_high,closed 3.2% off day high
 WELCORP,S1_base_short,base 1d — rolling high
+WELENT,S1_off_high,closed 3.8% off day high
 WELINV,S0_series,BE
-WSTCSTPAPR,S1_base_short,base 9d — rolling high
-SHANTIGEAR,S1_off_high,closed 3.1% off day high
-KDDL,S1_red_close,-1.95% on the day
-COMPEAU,S0_turnover,Rs 0.2 cr
-CLSEL,S0_turnover,Rs 3.8 cr
-LANCORHOL,S0_turnover,Rs 1.7 cr
-NATIONSTD,S0_turnover,Rs 2.4 cr
-BPLPHARMA,S0_turnover,Rs 0.1 cr
-ARTNIRMAN,S0_turnover,Rs 0.0 cr
-SHADOWFAX,S1_red_close,-1.69% on the day
-BSL,S0_turnover,Rs 0.0 cr
-PDMJEPAPER,S0_turnover,Rs 1.1 cr
-MODTHREAD,S0_turnover,Rs 0.0 cr
-DUCON,S0_turnover,Rs 0.2 cr
-CORDELIA,S2_data,DATA UNAVAILABLE (37 bars)
-JAYSREETEA,S0_turnover,Rs 1.0 cr
-SIGIND,S0_turnover,Rs 0.0 cr
+WSTCSTPAPR,S1_red_close,-0.20% on the day
+YOGI,S1_off_high,closed 7.8% off day high
+NKIND,S0_turnover,Rs 2.2 cr
+TERAI,S0_turnover,Rs 0.0 cr
+BIRLAPREC,S0_turnover,Rs 4.3 cr
+CURAA,S0_turnover,Rs 0.0 cr
+LAMBODHARA,S0_turnover,Rs 1.0 cr
+BANKETF,S0_fund,ETF/index fund
+GOLDADD,S0_fund,ETF/index fund
+NDL,S0_turnover,Rs 1.6 cr
+STLSTRINF,S0_turnover,Rs 0.0 cr
+TBZ,S1_off_high,closed 3.1% off day high
+MODIRUBBER,S0_turnover,Rs 0.6 cr
+CORDELIA,S2_data,DATA UNAVAILABLE (38 bars)
+SHANTIGEAR,S2_no_new_high,day high 464.25 < 52w high 598.90
 JBMA,S2_no_new_high,day high 685.00 < 52w high 790.00
-RIIL,S2_no_new_high,day high 804.00 < 52w high 964.90
-WELSPLSOL,S2_data,DATA UNAVAILABLE (2 bars)
-MASTERTR,S2_no_new_high,day high 87.80 < 52w high 168.00
-SAATVIKGL,S2_data,DATA UNAVAILABLE (225 bars)
-THOMASCOOK,S2_no_new_high,day high 109.48 < 52w high 181.55
+WELSPLSOL,S2_data,DATA UNAVAILABLE (4 bars)
+RIIL,S1_off_high,closed 3.4% off day high
+THOMASCOOK,S2_no_new_high,day high 115.70 < 52w high 181.55
+QUADFUTURE,S2_no_new_high,day high 405.35 < 52w high 502.40
+MASTERTR,S1_off_high,closed 4.0% off day high
+NCC,S2_no_new_high,day high 151.42 < 52w high 222.60
+KLBRENG-B,S2_data,DATA UNAVAILABLE (4 bars)
+KDDL,S2_no_new_high,day high 4078.90 < 52w high 4155.50
+ALLCARGO,S2_no_new_high,day high 12.59 < 52w high 36.55
