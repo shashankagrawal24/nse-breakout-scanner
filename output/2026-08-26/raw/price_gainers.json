@@ -1060,22 +1060,6 @@
     "perChange": 11.48
    },
    {
-    "symbol": "NECLIFE",
-    "series": "EQ",
-    "open_price": 11.4,
-    "high_price": 12.46,
-    "low_price": 11.33,
-    "ltp": 12.46,
-    "prev_price": 11.33,
-    "net_price": 9.97,
-    "trade_quantity": 1472512,
-    "turnover": 178.76295679999998,
-    "market_type": "N",
-    "ca_ex_dt": "24-Dec-2025",
-    "ca_purpose": "Buy Back",
-    "perChange": 9.97
-   },
-   {
     "symbol": "LCCINFOTEC",
     "series": "EQ",
     "open_price": 3.32,
@@ -1089,6 +1073,22 @@
     "market_type": "N",
     "ca_ex_dt": "17-Sep-2024",
     "ca_purpose": "Annual General Meeting",
+    "perChange": 9.97
+   },
+   {
+    "symbol": "NECLIFE",
+    "series": "EQ",
+    "open_price": 11.4,
+    "high_price": 12.46,
+    "low_price": 11.33,
+    "ltp": 12.46,
+    "prev_price": 11.33,
+    "net_price": 9.97,
+    "trade_quantity": 1472512,
+    "turnover": 178.76295679999998,
+    "market_type": "N",
+    "ca_ex_dt": "24-Dec-2025",
+    "ca_purpose": "Buy Back",
     "perChange": 9.97
    },
    {
@@ -1998,19 +1998,19 @@
     "perChange": 9.99
    },
    {
-    "symbol": "NECLIFE",
+    "symbol": "LCCINFOTEC",
     "series": "EQ",
-    "open_price": 11.4,
-    "high_price": 12.46,
-    "low_price": 11.33,
-    "ltp": 12.46,
-    "prev_price": 11.33,
+    "open_price": 3.32,
+    "high_price": 3.75,
+    "low_price": 3.3,
+    "ltp": 3.75,
+    "prev_price": 3.41,
     "net_price": 9.97,
-    "trade_quantity": 1472512,
-    "turnover": 178.76295679999998,
+    "trade_quantity": 182473,
+    "turnover": 6.7879956,
     "market_type": "N",
-    "ca_ex_dt": "24-Dec-2025",
-    "ca_purpose": "Buy Back",
+    "ca_ex_dt": "17-Sep-2024",
+    "ca_purpose": "Annual General Meeting",
     "perChange": 9.97
    }
   ],
