@@ -150,11 +150,11 @@ SIMPLXREA,S2_data,DATA UNAVAILABLE (9 bars)
 SKFINDUS,S2_data,DATA UNAVAILABLE (182 bars)
 SUDEEPPHRM,S2_data,DATA UNAVAILABLE (190 bars)
 ULTRAMAR,S2_data,DATA UNAVAILABLE (93 bars)
-NORTHARC,S2_no_new_high,day high 319.60 < 52w high 334.00
-ASHOKA,S1_off_high,closed 6.8% off day high
-TNPETRO,S1_off_high,closed 5.5% off day high
-VIMTALABS,S1_off_high,closed 4.0% off day high
-VENKEYS,S2_no_new_high,day high 1747.40 < 52w high 1800.00
-NIACL,S1_off_high,closed 4.4% off day high
+NORTHARC,S2_no_new_high,day high 312.50 < 52w high 334.00
+ASHOKA,S2_no_new_high,day high 119.74 < 52w high 214.50
+TNPETRO,S2_no_new_high,day high 120.20 < 52w high 129.89
+VIMTALABS,S2_no_new_high,day high 642.00 < 52w high 902.65
+VENKEYS,S2_no_new_high,day high 1698.00 < 52w high 1800.00
+NIACL,S2_no_new_high,day high 191.90 < 52w high 218.00
 REMSONSIND,S2_no_new_high,day high 99.70 < 52w high 152.45
 SHIPROCKET,S2_data,DATA UNAVAILABLE (9 bars)

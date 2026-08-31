@@ -1,3 +1,3 @@
 symbol,name,bucket,close,breakout_level,base_months,base_start,vol_x_10wk,weekly_close_pos,ext_vs_10m_ma_pct,base_drawdown_pct,off_high_pct,turnover_cr,sources,weekly_candle_final,spliced_today,s3_pass,s4_score,s3_fail
-INDGN,Indegene Limited,CONFIRMED,611.65,586.55,11.4,2025-09-17,1.7,0.89,19.0,30.6,1.22,242.9,52w_high,False,False,True,4,
-KALYANIFRG,Kalyani Forge Limited,CONFIRMED,914.3,787.8,10.7,2025-10-09,3.3,1.0,43.3,38.4,0.0,5.3,52w_high+price_gainer,False,False,True,3,
+INDGN,Indegene Limited,CONFIRMED,608.0,586.55,11.4,2025-09-17,1.7,0.79,18.4,30.6,1.22,241.5,52w_high,False,True,True,4,
+KALYANIFRG,Kalyani Forge Limited,CONFIRMED,914.3,787.8,10.7,2025-10-09,3.3,1.0,43.3,38.4,0.0,5.3,52w_high+price_gainer,False,True,True,3,
