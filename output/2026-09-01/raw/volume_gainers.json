@@ -51,14 +51,14 @@
   {
    "symbol": "VTL",
    "companyName": "Vardhman Textiles Limited",
-   "volume": 26383634,
+   "volume": 26383732,
    "week1AvgVolume": 192324,
-   "week1volChange": 137.1831447772641,
+   "week1volChange": 137.18365433361208,
    "week2AvgVolume": 190473,
-   "week2volChange": 138.51639864967737,
+   "week2volChange": 138.5169131582954,
    "ltp": 598,
    "pChange": 4.54,
-   "turnover": 161525.88407
+   "turnover": 161526.48405
   },
   {
    "symbol": "MOLOWVOL",
@@ -87,38 +87,38 @@
   {
    "symbol": "SOTL",
    "companyName": "Savita Oil Technologies Limited",
-   "volume": 11719427,
+   "volume": 11719498,
    "week1AvgVolume": 190725,
-   "week1volChange": 61.446673267205604,
+   "week1volChange": 61.4470455306108,
    "week2AvgVolume": 207038,
-   "week2volChange": 56.60514836964635,
+   "week2volChange": 56.60549130156054,
    "ltp": 760.2,
    "pChange": 10.41,
-   "turnover": 89182.49558
+   "turnover": 89183.03588
   },
   {
    "symbol": "SSWL",
    "companyName": "Steel Strips Wheels Limited",
-   "volume": 28271046,
+   "volume": 28271167,
    "week1AvgVolume": 465993,
-   "week1volChange": 60.66839201447232,
+   "week1volChange": 60.66865167502516,
    "week2AvgVolume": 501581,
-   "week2volChange": 56.36378771953959,
+   "week2volChange": 56.36402895639775,
    "ltp": 351.3,
    "pChange": 14.94,
-   "turnover": 97142.14116
+   "turnover": 97142.55692
   },
   {
    "symbol": "EPL",
    "companyName": "EPL Limited",
-   "volume": 135413186,
+   "volume": 135432363,
    "week1AvgVolume": 2273059,
-   "week1volChange": 59.57309344520018,
+   "week1volChange": 59.581530091931164,
    "week2AvgVolume": 2926852,
-   "week2volChange": 46.265812552189175,
+   "week2volChange": 46.272364642967936,
    "ltp": 239.9,
    "pChange": -8.47,
-   "turnover": 326792.64177
+   "turnover": 326838.92162
   },
   {
    "symbol": "MOM50",
@@ -195,14 +195,14 @@
   {
    "symbol": "IPRINGLTD",
    "companyName": "IP Rings Limited",
-   "volume": 115790,
+   "volume": 115821,
    "week1AvgVolume": 4157,
-   "week1volChange": 27.84863911492364,
+   "week1volChange": 27.856094921233012,
    "week2AvgVolume": 2999,
-   "week2volChange": 38.60251553265646,
+   "week2volChange": 38.61285043188362,
    "ltp": 173.6,
    "pChange": 10.73,
-   "turnover": 207.03252
+   "turnover": 207.07636
   },
   {
    "symbol": "SHYAMTEL",
@@ -219,26 +219,26 @@
   {
    "symbol": "JINDWORLD",
    "companyName": "Jindal Worldwide Limited",
-   "volume": 120338023,
+   "volume": 120393999,
    "week1AvgVolume": 4962039,
-   "week1volChange": 24.25172857367707,
+   "week1volChange": 24.26300942011943,
    "week2AvgVolume": 3500443,
-   "week2volChange": 34.377933878045226,
+   "week2volChange": 34.39392499356121,
    "ltp": 41.98,
    "pChange": 9.58,
-   "turnover": 50951.11893
+   "turnover": 50974.81917
   },
   {
    "symbol": "CAPLIPOINT",
    "companyName": "Caplin Point Laboratories Limited",
-   "volume": 1992446,
+   "volume": 1992659,
    "week1AvgVolume": 83494,
-   "week1volChange": 23.863200570097433,
+   "week1volChange": 23.86575163633533,
    "week2AvgVolume": 76870,
-   "week2volChange": 25.91952931437188,
+   "week2volChange": 25.92230020991633,
    "ltp": 2720,
    "pChange": 8.05,
-   "turnover": 53841.27052
+   "turnover": 53847.02635
   },
   {
    "symbol": "GSEC10IETF",
@@ -255,51 +255,51 @@
   {
    "symbol": "JINDALPOLY",
    "companyName": "Jindal Poly Films Limited",
-   "volume": 142345,
+   "volume": 142561,
    "week1AvgVolume": 7813,
-   "week1volChange": 18.217828118000895,
+   "week1volChange": 18.245472579509823,
    "week2AvgVolume": 14566,
-   "week2volChange": 9.77217125382263,
+   "week2volChange": 9.786999937589714,
    "ltp": 694.45,
    "pChange": 9.99,
-   "turnover": 961.62588
+   "turnover": 963.12785
   },
   {
    "symbol": "RBZJEWEL",
    "companyName": "RBZ Jewellers Limited",
-   "volume": 5612457,
+   "volume": 5612930,
    "week1AvgVolume": 311366,
-   "week1volChange": 18.025272508880224,
+   "week1volChange": 18.026791621435866,
    "week2AvgVolume": 203454,
-   "week2volChange": 27.585839927399366,
+   "week2volChange": 27.58816477412615,
    "ltp": 169,
    "pChange": 12.08,
-   "turnover": 9543.42188
+   "turnover": 9544.22617
   },
   {
    "symbol": "SRIKPRIND",
    "companyName": "Sri KPR Industries Limited",
-   "volume": 66441,
+   "volume": 66491,
    "week1AvgVolume": 4039,
-   "week1volChange": 16.447827701448198,
+   "week1volChange": 16.46020547097413,
    "week2AvgVolume": 3312,
-   "week2volChange": 20.05766037735849,
+   "week2volChange": 20.072754716981134,
    "ltp": 25.35,
    "pChange": 19.97,
-   "turnover": 16.3179
+   "turnover": 16.33018
   },
   {
    "symbol": "MANAKSTEEL",
    "companyName": "Manaksia Steels Limited",
-   "volume": 1384890,
+   "volume": 1384941,
    "week1AvgVolume": 85545,
-   "week1volChange": 16.188960239405226,
+   "week1volChange": 16.189556414532646,
    "week2AvgVolume": 65192,
-   "week2volChange": 21.243043344270617,
+   "week2volChange": 21.24382564121157,
    "ltp": 104.49,
    "pChange": 4.99,
-   "turnover": 1434.74604
+   "turnover": 1434.79887
   }
  ],
- "timestamp": "01-Sep-2026 15:38:52"
+ "timestamp": "01-Sep-2026 16:00:00"
 }
