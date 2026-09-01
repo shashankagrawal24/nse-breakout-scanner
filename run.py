@@ -22,7 +22,8 @@ sys.path.insert(0, str(ROOT))
 from scanner import pipeline  # noqa: E402
 from scanner.analyse_claude import (SYSTEM, build_user_content,  # noqa: E402
                                     write_analysis)
-from scanner.notify import send_telegram  # noqa: E402
+from scanner.notify import send_slack, send_telegram  # noqa: E402
+from scanner.report import build_slack_blocks  # noqa: E402
 
 
 def load_website_csvs(csv52, csvvol):
@@ -168,6 +169,17 @@ def main():
                f"{funnel[3]}{link}")
     if send_telegram(summary):
         print("  telegram sent")
+
+    # Slack: same numbers, laid out as Block Kit.
+    if os.environ.get("SLACK_ONLY_ON_HITS") == "1" and not (confirmed
+                                                            or watch):
+        print("  no hits and SLACK_ONLY_ON_HITS=1 — slack skipped")
+    else:
+        fallback, blocks = build_slack_blocks(
+            asof, confirmed, watch, link.strip())
+        if send_slack(fallback, blocks):
+            print("  slack sent")
+
     print(f"== done -> {day_dir} ==")
 
 
