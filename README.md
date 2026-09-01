@@ -41,10 +41,50 @@ the weekly candle is still forming; Friday runs are final.
    `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID` for the evening summary ping.
    `ANTHROPIC_API_KEY` / `CLAUDE_CODE_OAUTH_TOKEN` are NOT required — see
    "No API key?" below.
-3. Actions tab -> NSE Breakout Scanner -> Run workflow (manual test).
-4. The schedule (`30 12 * * 1-5` = 18:00 IST weekdays) then runs itself.
+3. (Optional) Add email delivery — see "Delivery" below.
+4. Actions tab -> NSE Breakout Scanner -> Run workflow (manual test).
+5. The schedule (`30 12 * * 1-5` = 18:00 IST weekdays) then runs itself.
    The scanner reads the feed timestamp and dates the output folder to the
    trading day, so a Saturday run of Friday's frozen data files correctly.
+
+## Delivery
+
+Two optional channels, both fail-soft: if a channel's secrets are missing,
+or its network call errors, the run prints one line and continues. The CSVs
+are committed to the repo either way, so delivery is never load-bearing.
+
+| Channel | Secrets |
+| --- | --- |
+| Telegram | `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID` |
+| Slack | `SLACK_WEBHOOK_URL` |
+
+**Slack** — in the Slack app directory add *Incoming Webhooks*, pick the
+target channel, copy the generated `https://hooks.slack.com/services/...`
+URL, and add it under Settings -> Secrets and variables -> Actions as
+`SLACK_WEBHOOK_URL`.
+
+That URL is a bearer credential: anyone holding it can post into the
+channel, and there is no second factor. It must never be committed. This
+repo is public, so a hardcoded webhook would be scraped within hours —
+GitHub's secret scanning also reports leaked Slack webhooks to Slack, which
+revokes them, so a committed URL tends to break the integration as well as
+expose it. If one is ever pushed, revoking and regenerating is the only fix;
+deleting the line does not help, since the value stays in git history.
+
+The message is deliberately just the two signal tables: a header, the
+confirmed breakouts, the watch list, and a link to `output/latest`. The
+funnel, reject reasons and Claude note are still written to `output/` on
+every run — they are simply not posted to the channel.
+
+Slack's ceilings are enforced when building the payload — 50 blocks per
+message, 3000 characters per section, 150 per header — because breaching
+them either returns `400 invalid_blocks` or truncates silently with no
+error. If a block payload is rejected anyway, the sender retries once as
+plain text so the alert still lands.
+
+Set `SLACK_ONLY_ON_HITS=1` to stay quiet on days with no confirmed and no
+watch names. Note that a day with zero prescreen survivors already exits
+before the notification block, so neither channel fires on those days.
 
 Each run commits `output/YYYY-MM-DD/` back to the repo:
 
