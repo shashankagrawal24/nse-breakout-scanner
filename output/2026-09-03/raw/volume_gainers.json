@@ -15,38 +15,38 @@
   {
    "symbol": "GOCLCORP",
    "companyName": "GOCL Corporation Limited",
-   "volume": 6029836,
+   "volume": 6030677,
    "week1AvgVolume": 41728,
-   "week1volChange": 144.50104644289297,
+   "week1volChange": 144.52120045372484,
    "week2AvgVolume": 36139,
-   "week2volChange": 166.84911479269698,
+   "week2volChange": 166.8723857581993,
    "ltp": 417.1,
    "pChange": 6.48,
-   "turnover": 26170.09122
+   "turnover": 26173.13818
   },
   {
    "symbol": "BFUTILITIE",
    "companyName": "BF Utilities Limited",
-   "volume": 4459266,
+   "volume": 4460017,
    "week1AvgVolume": 39507,
-   "week1volChange": 112.87042653988449,
+   "week1volChange": 112.88943542841714,
    "week2AvgVolume": 36180,
-   "week2volChange": 123.25069035265147,
+   "week2volChange": 123.27144741635992,
    "ltp": 540,
    "pChange": 7.86,
-   "turnover": 25157.39506
+   "turnover": 25161.1859
   },
   {
    "symbol": "HIKAL",
    "companyName": "Hikal Limited",
-   "volume": 20195753,
+   "volume": 20195810,
    "week1AvgVolume": 199685,
-   "week1volChange": 101.13780419709994,
+   "week1volChange": 101.13808964596828,
    "week2AvgVolume": 179025,
-   "week2volChange": 112.80916465070554,
+   "week2volChange": 112.80948304053656,
    "ltp": 240.72,
    "pChange": 20,
-   "turnover": 46629.9741
+   "turnover": 46630.1057
   },
   {
    "symbol": "NPBET",
@@ -75,26 +75,26 @@
   {
    "symbol": "HINDOILEXP",
    "companyName": "Hindustan Oil Exploration Company Limited",
-   "volume": 35250376,
+   "volume": 35250701,
    "week1AvgVolume": 850621,
-   "week1volChange": 41.44073822115912,
+   "week1volChange": 41.44112029481195,
    "week2AvgVolume": 682333,
-   "week2volChange": 51.661536674170335,
+   "week2volChange": 51.66201298112998,
    "ltp": 182.8,
    "pChange": 10,
-   "turnover": 65244.92093
+   "turnover": 65245.52248
   },
   {
    "symbol": "INDBANK",
    "companyName": "Indbank Merchant Banking Services Limited",
-   "volume": 717019,
+   "volume": 719248,
    "week1AvgVolume": 18336,
-   "week1volChange": 39.103373053745266,
+   "week1volChange": 39.22493387505794,
    "week2AvgVolume": 25961,
-   "week2volChange": 27.61869561411188,
+   "week2volChange": 27.704553970060406,
    "ltp": 28.77,
    "pChange": -7.49,
-   "turnover": 206.78827
+   "turnover": 207.43112
   },
   {
    "symbol": "LAHOTIOV",
@@ -111,38 +111,38 @@
   {
    "symbol": "ALEMBICLTD",
    "companyName": "Alembic Limited",
-   "volume": 34915425,
+   "volume": 35036495,
    "week1AvgVolume": 1210601,
-   "week1volChange": 28.84138190238738,
+   "week1volChange": 28.941390025070177,
    "week2AvgVolume": 1013544,
-   "week2volChange": 34.44882196984069,
+   "week2volChange": 34.568274013626166,
    "ltp": 108.8,
    "pChange": 8.65,
-   "turnover": 39363.65014
+   "turnover": 39496.64081
   },
   {
    "symbol": "ELECON",
    "companyName": "Elecon Engineering Company Limited",
-   "volume": 7393303,
+   "volume": 7394075,
    "week1AvgVolume": 275446,
-   "week1volChange": 26.84114166081758,
+   "week1volChange": 26.84394438124743,
    "week2AvgVolume": 356815,
-   "week2volChange": 20.72024849113458,
+   "week2volChange": 20.72241207510174,
    "ltp": 436.5,
    "pChange": 4.78,
-   "turnover": 32985.96066
+   "turnover": 32989.40502
   },
   {
    "symbol": "RAYMOND",
    "companyName": "Raymond Limited",
-   "volume": 16593662,
+   "volume": 16593917,
    "week1AvgVolume": 680440,
-   "week1volChange": 24.386664511198635,
+   "week1volChange": 24.387039268708484,
    "week2AvgVolume": 561624,
-   "week2volChange": 29.54582760724975,
+   "week2volChange": 29.5462816472344,
    "ltp": 753.8,
    "pChange": 12.97,
-   "turnover": 124402.68401
+   "turnover": 124404.59574
   },
   {
    "symbol": "UPHOT",
@@ -159,38 +159,38 @@
   {
    "symbol": "BSL",
    "companyName": "BSL Limited",
-   "volume": 52950,
+   "volume": 53035,
    "week1AvgVolume": 2528,
-   "week1volChange": 20.941269527387778,
+   "week1volChange": 20.97488629622306,
    "week2AvgVolume": 2997,
-   "week2volChange": 17.665524248582088,
+   "week2volChange": 17.693882502805497,
    "ltp": 122.71,
    "pChange": 0.48,
-   "turnover": 67.72305
+   "turnover": 67.82646
   },
   {
    "symbol": "RNBDENIMS",
    "companyName": "R&B Denims Limited",
-   "volume": 3089046,
+   "volume": 3089346,
    "week1AvgVolume": 149979,
-   "week1volChange": 20.596477736932645,
+   "week1volChange": 20.59847801252617,
    "week2AvgVolume": 203310,
-   "week2volChange": 15.193759468291173,
+   "week2volChange": 15.1952350461364,
    "ltp": 10.81,
    "pChange": -4.93,
-   "turnover": 353.69576
+   "turnover": 353.73011
   },
   {
    "symbol": "ANANTRAJ",
    "companyName": "Anant Raj Limited",
-   "volume": 22182136,
+   "volume": 22186819,
    "week1AvgVolume": 1131565,
-   "week1volChange": 19.603047930345475,
+   "week1volChange": 19.60718644403315,
    "week2AvgVolume": 1631732,
-   "week2volChange": 13.59422748343478,
+   "week2volChange": 13.597097440020788,
    "ltp": 627,
    "pChange": 6.48,
-   "turnover": 139672.03753
+   "turnover": 139701.52451
   },
   {
    "symbol": "GILT5BETA",
@@ -207,14 +207,14 @@
   {
    "symbol": "BRIGADE",
    "companyName": "Brigade Enterprises Limited",
-   "volume": 5390592,
+   "volume": 5390980,
    "week1AvgVolume": 305762,
-   "week1volChange": 17.62998752845344,
+   "week1volChange": 17.631256486512417,
    "week2AvgVolume": 621395,
-   "week2volChange": 8.674971819312969,
+   "week2volChange": 8.67559621994761,
    "ltp": 725,
    "pChange": 13.28,
-   "turnover": 37340.09172
+   "turnover": 37342.77936
   },
   {
    "symbol": "BBNPPGOLD",
@@ -231,14 +231,14 @@
   {
    "symbol": "HEXT",
    "companyName": "Hexaware Technologies Limited",
-   "volume": 2916716,
+   "volume": 2916864,
    "week1AvgVolume": 174557,
-   "week1volChange": 16.709198974549935,
+   "week1volChange": 16.710046832705554,
    "week2AvgVolume": 419053,
-   "week2volChange": 6.960243544383872,
+   "week2volChange": 6.960596721053994,
    "ltp": 532,
    "pChange": -2.13,
-   "turnover": 15416.01074
+   "turnover": 15416.79298
   },
   {
    "symbol": "SVGLOBAL",
@@ -255,51 +255,51 @@
   {
    "symbol": "COMPEAU",
    "companyName": "Competent Automobiles Company Limited",
-   "volume": 12977,
+   "volume": 12987,
    "week1AvgVolume": 891,
-   "week1volChange": 14.550925060736311,
+   "week1volChange": 14.56213791814614,
    "week2AvgVolume": 2175,
-   "week2volChange": 5.965439424965523,
+   "week2volChange": 5.970036357557775,
    "ltp": 370,
    "pChange": 4.52,
-   "turnover": 45.6972
+   "turnover": 45.73242
   },
   {
    "symbol": "SALASAR",
    "companyName": "Salasar Techno Engineering Limited",
-   "volume": 40155150,
+   "volume": 40156990,
    "week1AvgVolume": 2822600,
-   "week1volChange": 14.226298448239213,
+   "week1volChange": 14.226950329483454,
    "week2AvgVolume": 2509900,
-   "week2volChange": 15.99870049188472,
+   "week2volChange": 15.999433588608431,
    "ltp": 5.25,
    "pChange": -7.08,
-   "turnover": 2047.91265
+   "turnover": 2048.00649
   },
   {
    "symbol": "AUTOIND",
    "companyName": "Autoline Industries Limited",
-   "volume": 1836627,
+   "volume": 1837130,
    "week1AvgVolume": 132212,
-   "week1volChange": 13.891495246283126,
+   "week1volChange": 13.895299732501002,
    "week2AvgVolume": 190819,
-   "week2volChange": 9.624946284303011,
+   "week2volChange": 9.627582283872332,
    "ltp": 93.5,
    "pChange": 10.42,
-   "turnover": 1714.67496
+   "turnover": 1715.14456
   },
   {
    "symbol": "RUCHINFRA",
    "companyName": "Ruchi Infrastructure Limited",
-   "volume": 680043,
+   "volume": 680209,
    "week1AvgVolume": 50552,
-   "week1volChange": 13.452124345157047,
+   "week1volChange": 13.455408038454818,
    "week2AvgVolume": 41620,
-   "week2volChange": 16.338975165454425,
+   "week2volChange": 16.34296354542079,
    "ltp": 6.08,
    "pChange": 9.95,
-   "turnover": 41.82264
+   "turnover": 41.83285
   }
  ],
- "timestamp": "03-Sep-2026 15:37:00"
+ "timestamp": "03-Sep-2026 16:00:00"
 }
