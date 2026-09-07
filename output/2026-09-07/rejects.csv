@@ -75,7 +75,7 @@ MINALIND,S0_series,BE
 MONOLITH,S0_series,SM
 MONQ50,S0_fund,ETF/index fund
 MOREPENLAB,S1_base_short,base 4d — rolling high
-MOTOGENFIN,S1_off_high,closed 8.4% off day high
+MOTOGENFIN,S0_turnover,Rs 1.5 cr
 MSTCLTD,S1_base_short,base 7d — rolling high
 MUKKA,S1_off_high,closed 3.7% off day high
 MVELECTRO,S1_base_short,base 7d — rolling high
@@ -121,7 +121,7 @@ SHILPAMED,S1_red_close,-2.30% on the day
 SHREEJISPG,S1_base_short,base 3d — rolling high
 SHREEPUSHK,S1_base_short,base 7d — rolling high
 SILKFLEX,S0_series,SM
-SIMPLXREA,S0_turnover,Rs 0.0 cr
+SIMPLXREA,S1_red_close,-0.90% on the day
 SKIPPER,S1_base_short,base 3d — rolling high
 SML100CASE,S0_fund,ETF/index fund
 SMLMAH,S1_base_short,base 3d — rolling high
@@ -157,13 +157,13 @@ BNKETFAXIS,S0_fund,ETF/index fund
 ANDHRAPAP,S1_off_high,closed 5.7% off day high
 PASHUPATI,S1_red_close,-0.60% on the day
 HAMPTON,S0_turnover,Rs 0.3 cr
-KDGREEN,S0_turnover,Rs 2.1 cr
+DBEIL,S0_turnover,Rs 2.5 cr
+MGEL,S0_turnover,Rs 2.2 cr
 SBIETFIT,S0_fund,ETF/index fund
 MOMENTUM30,S0_fund,ETF/index fund
-MITTAL,S0_turnover,Rs 1.1 cr
-PKTEA,S0_turnover,Rs 1.3 cr
 ALKALI,S0_turnover,Rs 0.6 cr
-DBEIL,S0_turnover,Rs 2.5 cr
+PKTEA,S0_turnover,Rs 1.3 cr
+MITTAL,S0_turnover,Rs 1.1 cr
 RADHIKAJWE,S1_off_high,closed 4.5% off day high
 BAIDFIN,S0_turnover,Rs 0.2 cr
 MENNPIS,S2_data,DATA UNAVAILABLE (15 bars)
@@ -177,6 +177,7 @@ MERCURYEV,S2_data,DATA UNAVAILABLE (70 bars)
 ZYDUSWELL,S1_off_high,closed 4.4% off day high
 GNRL,S2_data,DATA UNAVAILABLE (15 bars)
 PDMJEPAPER,S1_off_high,closed 6.9% off day high
+QUICKHEAL,S1_off_high,closed 6.9% off day high
 RPPINFRA,S2_no_new_high,day high 54.99 < 52w high 158.90
 TALBROAUTO,S2_no_new_high,day high 441.85 < 52w high 451.60
 PCJEWELLER,S2_no_new_high,day high 14.08 < 52w high 15.38
